@@ -50,3 +50,6 @@ services:
 volumes:
   xo-data:
   redis-data:
+
+networks:
+  bridge:
